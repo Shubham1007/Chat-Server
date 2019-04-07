@@ -3,8 +3,8 @@ Users can interact to each other. They can share information to all others.
 
 # Requirement to run this project=>
 
-1) JRE
-2) java
+<b>1) JRE</b>
+<b>2) java</b>
 
 # How to run this project=>
 
